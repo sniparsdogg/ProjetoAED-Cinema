@@ -1,0 +1,8 @@
+911,The Shawshank Redemption,1994-11-20,25000000,142,9.3,1957179
+1356,The Godfather,1972-03-19,6000000,175,9.2,1339863
+845,Pulp Fiction,1994-10-25,8000000,178,8.9,1530751
+1239848,Friend of the Family,1995-06-20,250000,103,4.8,720, don't mind me, just hiding an easter egg here :^), you shouldn't search this movie anyway
+987346,Schindler's List,1993-12-17,22000000,195,8.9,1009684
+357,Fight Club,1999-10-17,63000000,139,8.8,1569188
+674,Matrix,1999-04-04,63000000,136,8.7,1406943
+80,The Hateful Eight,2015-12-27,44000000,167,7.8,391938

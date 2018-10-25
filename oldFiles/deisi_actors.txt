@@ -1,0 +1,22 @@
+6114,Marlon Brando,true,1356
+6384,Uma Thurman,false,845
+92634,Al Pacino,true,1356
+3894,John Travolta,true,845
+1984,James Caan,true,1356
+982,Samuel L. Jackson,true,845
+2984,Liam Neeson,true,987346
+8935,Ralph Fiennes,true,987346
+289,Ben Kingsley,987346
+000,John Doe,357
+2510,Brad Pitt,true,357
+228906,Edward Norton,true,357
+59,Meat Loaf,true,357
+79,Keanu Reeves,true,674
+3,Laurence Fishburne,true,674
+215484,Carrie-Anne Ross,false,674
+7894,Tim Robbins,true,911
+2201,Morgan Freeman,true,911
+56489,Bob Gunton,true,911
+982,Samuel L. Jackson,true,80
+845,Kurt Russell,true,80
+354,Jennifer Jason Leigh,false,80
